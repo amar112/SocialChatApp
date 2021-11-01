@@ -1,7 +1,7 @@
-#Social chat App
+# Social chat App
 Using Firebase and Bloc design pattern (Cubit ^7.0.0).
 
-##Packages
+## Packages
  cupertino_icons: ^1.0.2
   intl: ^0.17.0
   conditional_builder: ^1.0.2
