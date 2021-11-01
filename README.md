@@ -2,21 +2,21 @@
 Using Firebase and Bloc design pattern (Cubit ^7.0.0).
 
 ## Packages
- cupertino_icons: ^1.0.2
-  intl: ^0.17.0
-  conditional_builder: ^1.0.2
-  bloc: ^7.0.0
-  flutter_bloc: ^7.0.0
-  hexcolor: ^2.0.3
-  shared_preferences: ^2.0.5
-  fluttertoast: ^8.0.3
-  image_picker: ^0.7.4
+ * cupertino_icons: ^1.0.2
+ * intl: ^0.17.0
+ * conditional_builder: ^1.0.2
+ * bloc: ^7.0.0
+ * flutter_bloc: ^7.0.0
+ * hexcolor: ^2.0.3
+ * shared_preferences: ^2.0.5
+ * fluttertoast: ^8.0.3
+ * image_picker: ^0.7.4
 
   *firebase*
-  firebase_core: ^1.0.3
-  firebase_auth: ^1.0.3
-  cloud_firestore: ^1.0.4
-  firebase_storage: ^8.0.3
+ * firebase_core: ^1.0.3
+ * firebase_auth: ^1.0.3
+ * cloud_firestore: ^1.0.4
+ * firebase_storage: ^8.0.3
 
 ## Getting Started
 
